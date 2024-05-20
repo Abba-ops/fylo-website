@@ -1,6 +1,6 @@
 # Tailwind CSS Project
 
-![Project Screenshot](https://i.ibb.co/tZRbnjc/Screenshot-14.png)
+![Project Screenshot](https://i.ibb.co/qRMWpvh/Screenshot-30.png)
 
 ## Project Overview
 
